@@ -1,10 +1,11 @@
 # 👋 Hi, Washingtong Hua here
 
-I'm a
-- 🖥  Frontend Developer at Alibaba
-- 💎  Interaction Designer
-- 📷  Photographor
-- ☕️  Coffee Lover
+I'm a :
+
+- 🖥  &nbsp;&nbsp; Frontend Developer at Alibaba
+- 💎  &nbsp;&nbsp; Interaction Designer
+- 📷  &nbsp;&nbsp; Photographor
+- ☕️  &nbsp;&nbsp; Coffee Lover
 
 <!--
 **tonghuashuo/tonghuashuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
