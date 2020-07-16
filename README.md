@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 Hi, Washingtong Hua here
+
+- 🖥 A Frontend Developer at Alibaba
+- 💎 A Interaction Designer
+- 📷 A Photographor
+- ☕️ A Coffee Lover
 
 <!--
 **tonghuashuo/tonghuashuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
