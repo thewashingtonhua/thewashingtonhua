@@ -1,23 +1,17 @@
 # 👋 Hi, Washingtong Hua here
 
-I'm a :
+🖥  &nbsp;&nbsp; I'm a Developer currently working at [Alibaba](https://www.aliyundrive.com).
 
-- 🖥  &nbsp;&nbsp; Frontend Developer at Alibaba
-- 💎  &nbsp;&nbsp; Interaction Designer
-- 📷  &nbsp;&nbsp; Photographor
-- ☕️  &nbsp;&nbsp; Coffee Lover
+📷  &nbsp;&nbsp; I like to explore the world through lences.
 
-<!--
-**tonghuashuo/tonghuashuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☕️  &nbsp;&nbsp; The smell of a good coffee is always a treat for me.
 
-Here are some ideas to get you started:
+## Some of the toys I've been playing with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![typescript](https://img.shields.io/badge/-typescript-000?&style=for-the-badge&logo=typescript)
+![react](https://img.shields.io/badge/react-000?&style=for-the-badge&logo=react)
+![node](https://img.shields.io/badge/node.js-000?&style=for-the-badge&logo=node.js)
+![electron](https://img.shields.io/badge/electron-000?&style=for-the-badge&logo=electron)
+![reactivex](https://img.shields.io/badge/rxjs-000?&style=for-the-badge&logo=reactivex&logoColor=B7178C)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
