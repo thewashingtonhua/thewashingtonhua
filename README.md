@@ -1,8 +1,8 @@
 # 👋 Hi, Washingtong Hua here
 
-🖥  &nbsp;&nbsp; I'm a Developer currently working at [Alibaba](https://www.aliyundrive.com).
+🖥  &nbsp;&nbsp; I'm a Developer currently working at [ByteDance](https://www.douyin.com).
 
-📷  &nbsp;&nbsp; I like to explore the world through lences.
+📷  &nbsp;&nbsp; I like to explore the world through camera lences.
 
 ☕️  &nbsp;&nbsp; The smell of a good coffee is always a treat for me.
 
