@@ -1,4 +1,4 @@
-# 👋 Hi, Washingtong Hua here.
+# 👋 Hi, Washington Hua here.
 
 ![typescript](https://img.shields.io/badge/-typescript-000?&style=for-the-badge&logo=typescript)
 ![react](https://img.shields.io/badge/react-000?&style=for-the-badge&logo=react)
