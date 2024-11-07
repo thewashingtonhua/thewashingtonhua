@@ -8,8 +8,8 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust)
 
-🖥  &nbsp;&nbsp; I'm a developer currently working at [ByteDance](https://www.douyin.com).
+🖥  &nbsp;&nbsp; I'm a Web Developer.
 
 📷  &nbsp;&nbsp; I like to explore the world through camera lences.
 
-☕️  &nbsp;&nbsp; A fine cup of a coffee is always a treat for me.
+☕️  &nbsp;&nbsp; A fine cup of a coffee has always beening a treat for me.
